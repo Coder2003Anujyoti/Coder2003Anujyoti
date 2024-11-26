@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder2003anujyoti" alt="coder2003anujyoti" /></a> </p>
 
-- 🔭 I’m currently working on [Handcricket Game](https://coder2003anujyoti.github.io/Handcricket-Project/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/anujyoti-de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anujyoti-de" height="30" width="40" /></a>
