@@ -1,5 +1,5 @@
 ![logo](https://github.com/Coder2003Anujyoti/Coder2003Anujyoti/blob/main/Detail.png)
-<img align="center" alt="coding" width="700" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <img align="right" alt="coding  width="400" src="https://images.app.goo.gl/pKZuw7TTLHreLE4N8">
 <h1 align="center">Hi 👋, I'm Anujyoti De</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
